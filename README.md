@@ -20,7 +20,7 @@ Final Features
 
 **Numbers : How many Numbers are in the password**
 
-**SpecialCharacter: How many Special Characters there are in the password**
+**SpecialCharacter: How many Special Characters (symbol) there are in the password**
 
 **Length : The overall length of the password**
 
