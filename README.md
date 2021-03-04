@@ -36,3 +36,5 @@ Training time: 121.39090991020203s
 Decision Tree
 Accuracy:  0.9996415047836705
 Training time: 0.3149373531341553s
+
+** https://www.kaggle.com/bhavikbb/password-strength-classifier-dataset data used for jupyter notebook**
