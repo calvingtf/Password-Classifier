@@ -6,7 +6,7 @@ Features
 
 We were only provided a data set that had two features which were passwords and the strength
 
-Calvin Ng and Arturo Delgado Decided to add multiple features that differentiate a password.
+Calvin Ng and Arturo Delgado decided to add multiple features that differentiate a password.
 
 Final Features
 
